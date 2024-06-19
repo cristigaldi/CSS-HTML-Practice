@@ -6,6 +6,7 @@
 
 .fruta {
   width: 200px;
+  height: auto;
   margin: 10px;
   padding: 10px;
   border: black 2px solid;
