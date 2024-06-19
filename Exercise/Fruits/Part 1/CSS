@@ -1,13 +1,29 @@
 .frutas {
-  
-  display: flex;
+  display:flex;
   overflow: auto;
+  text-align:justify;
+
 }
 
 .fruta {
   width: 200px;
   height: auto;
   margin: 10px;
-  padding: 10px;
-  border: black 2px solid;
+  padding: 5px;
+  border: green 2px solid;
+}
+
+.fruta-1{
+  border: purple 2px solid;
+  margin: 20px;
+  width:200px;
+  padding:5px;
+
+}
+
+.fruta-2{
+  border: blue 2px solid;
+  margin:10px;
+  width:200px;
+
 }
