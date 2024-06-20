@@ -7,16 +7,17 @@
 
 h1, h2 {
   margin:10px;
-  padding:10px
-
+  padding:10px;
 }
+
 .frutas {
   display:flex;
   overflow: auto;
   text-align:justify;
+  
 }
 
-.fruta, fruta-1, .fruta-2 {
+.fruta, .fruta-1, .fruta-2 {
   width: 200px;
   height: auto;
   margin: 10px;
@@ -31,5 +32,5 @@ h1, h2 {
 }
 
 .fruta-2{
-  border-box: blue 2px solid;
+  border: blue 2px solid;
 }
