@@ -10,10 +10,28 @@ h1, h2 {
   padding:10px;
 }
 
+h4{
+  background: lightgrey;
+  padding:6px;
+  text-align:center;
+  font-size:20px;
+}
+
+.titulo{
+  border-bottom: 2px solid red;
+}
+
+.bigcontainer{
+  margin:20px;
+  padding:10px;
+}
+
+
 .frutas{
   display:flex;
   overflow:auto;
   text-align:justify;
+  gap:20px;
   
 }
 .frutas-center {
@@ -21,12 +39,13 @@ h1, h2 {
   overflow: auto;
   text-align:justify;
   align-items: center;
+  gap:10px
 }
 
-.fruta1-1, .fruta1-2, .fruta1-3, .fruta2-1, .fruta2-2 {
+p{
+  padding:10px;
   width: 200px;
-  margin: 10px;
-  padding: 5px;
+  margin: 5px;
 }
 
 .fruta1-1{
@@ -38,11 +57,10 @@ h1, h2 {
 
 .fruta1-3{
   border: blue 2px solid;
-  align-self: baseline;
 }
 
 .fruta2-1 {
-  border: yellow 2px solid;
+  border: brown 2px solid;
 }
 
 .fruta2-2 {
