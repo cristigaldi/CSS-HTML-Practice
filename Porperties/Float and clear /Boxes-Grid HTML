@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="CSS/boxes.css">
+</head>
+
+<body>
+    <h1>Grid Position</h1>
+    <p>Float boxes side by side:</p>
+
+    <div class="clearfix">
+
+    <div class="box" style="background-color: aqua;">
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam distinctio maxime, odio magnam deserunt molestiae vero saepe quos cupiditate veniam accusamus soluta molestias ut? Quia incidunt architecto voluptatum. Rerum, doloremque.</p>
+    </div>
+    <div class="box" style="background-color: rgb(85, 181, 181);">
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam distinctio maxime, odio magnam deserunt molestiae vero saepe quos cupiditate veniam accusamus soluta molestias ut? Quia incidunt architecto voluptatum. Rerum, doloremque.</p>
+    </div>
+    <div class="box" style="background-color: aquamarine;">
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam distinctio maxime, odio magnam deserunt molestiae vero saepe quos cupiditate veniam accusamus soluta molestias ut? Quia incidunt architecto voluptatum. Rerum, doloremque.</p>
+    </div>
+
+    </div>
+
+</body>
+
+</html>
