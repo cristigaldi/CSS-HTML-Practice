@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  background-color: lightblue;
+  width: 350px;
+  height: 100px;
+  border: 2px solid darkblue;
+  overflow: scroll; /*Auto es lo mismo que scroll*/
+}
+</style>
+</head>
+<body>
+
+<h2>Overflow: scroll</h2>
+
+<p>Setting the overflow value to scroll, the overflow is clipped and a scrollbar is added to scroll inside the box. Note that this will add a scrollbar both horizontally and vertically (even if you do not need it):</p>
+
+<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, dignissimos assumenda. Possimus, debitis. Nam a tempora nihil nulla voluptates molestiae culpa accusamus eaque. Omnis, perferendis! Perferendis ipsum fugiat consequuntur libero. Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat at est aspernatur dolorem tenetur nihil eligendi rerum, voluptas in dicta exercitationem quidem officia odio, rem eos. Dicta cupiditate neque dignissimos!</div>
+
+</body>
+</html>
