@@ -13,87 +13,120 @@
 
   <div class="fruta">
   
+  <div class="borde">
   <div class="fresa">
   <p class="icono">🍓</p>
   <p>La fresa es una fruta del bosque adecuada en regímenes dietéticos, dado que tiene escasa concentración de glúcidos. Tiene un sabor muy agradable aunque ligeramente agrio (algunas pocas especies pueden tener sabor dulce).</p>
   </div>
+  </div>
 
+  <div class="borde">
   <div class="cereza">
   <p class="icono">🍒</p>
   <p>La cereza, también conocido como guinda, es fruto de varios árboles del género Prunus. La cereza es una fruta rica en vitaminas A, B, C, E, K y PP, en hierro, calcio, magnesio, potasio y azufre.</p>
   </div>
+  </div>
 
+  <div class="borde">
   <div class="pera">
   <p class="icono">🍐</p>
   <p>La pera comestible es el fruto del peral común (Pyrus communis). La pera es una fruta jugosa, carnosa, y una de las más importantes producidas en las regiones templadas.</p>
-
+  </div>
   </div>
 
+  <div class="borde">
   <div class="platano">
   <p class="icono">🍌</p>
   <p>El plátano (también llamado banana, banano o guineo) es un fruto con cualidades variables en tamaño, color y firmeza, alargado, generalmente curvado y carnoso, rico en almidón cubierto con una cáscara, que puede ser verde, amarilla, roja, púrpura o marrón cuando está madura. Los frutos crecen en piñas que cuelgan de la parte superior de la planta.</p>
-
+  </div>
   </div>
 
+  <div class="borde">
   <div class="sandia">
   <p class="icono">🍉</p>
   <p>La sandía es una fruta originaria de África, pero tiene una gran presencia y difusión en Asia. Hoy en día se cultiva de manera extendida por todo el mundo debido a su fruto, un pepónide de enorme tamaño —el récord entre las verduras fue una sandía de 120 kg.</p>
   </div>
 
   </div>
+  </div>
 
 <h2> Ejemplo 1-2</h2>
 
-<div class="fruta">
-<p>La fresa es una fruta del bosque adecuada en regímenes dietéticos, dado que tiene escasa concentración de glúcidos. Tiene un sabor muy agradable aunque ligeramente agrio (algunas pocas especies pueden tener sabor dulce).</p>
-
-<p>La cereza, también conocido como guinda, es fruto de varios árboles del género Prunus. La cereza es una fruta rica en vitaminas A, B, C, E, K y PP, en hierro, calcio, magnesio, potasio y azufre.</p>
-
-<p>La pera comestible es el fruto del peral común (Pyrus communis). La pera es una fruta jugosa, carnosa, y una de las más importantes producidas en las regiones templadas.</p>
-
-<p>El plátano (también llamado banana, banano o guineo) es un fruto con cualidades variables en tamaño, color y firmeza, alargado, generalmente curvado y carnoso, rico en almidón cubierto con una cáscara, que puede ser verde, amarilla, roja, púrpura o marrón cuando está madura. Los frutos crecen en piñas que cuelgan de la parte superior de la planta.</p>
-
-<p>La sandía es una fruta originaria de África, pero tiene una gran presencia y difusión en Asia. Hoy en día se cultiva de manera extendida por todo el mundo debido a su fruto, un pepónide de enorme tamaño —el récord entre las verduras fue una sandía de 120 kg.</p>
-
+<div class="fruta-center">
+<div class="borde2">
+<div class="fresa">
+<p class="icono">🍓</p>
+<p class="texto">La fresa es una fruta del bosque adecuada en regímenes dietéticos, dado que tiene escasa concentración de glúcidos. Tiene un sabor muy agradable aunque ligeramente agrio (algunas pocas especies pueden tener sabor dulce).</p>
+</div>
 </div>
 
+<div class="borde2">
+<div class="cereza">
+  <p class="icono">🍒</p>
+  <p class="texto">La cereza, también conocido como guinda, es fruto de varios árboles del género Prunus. La cereza es una fruta rica en vitaminas A, B, C, E, K y PP, en hierro, calcio, magnesio, potasio y azufre.</p>
+  </div>
+  </div>
+
+<div class="borde2">
+  <div class="pera">
+  <p class="icono">🍐</p>
+  <p class="texto">La pera comestible es el fruto del peral común (Pyrus communis). La pera es una fruta jugosa, carnosa, y una de las más importantes producidas en las regiones templadas.</p>
+  </div>
+  </div>
+
+  <div class="borde2">
+  <div class="platano">
+  <p class="icono">🍌</p>
+  <p class="texto">El plátano (también llamado banana, banano o guineo) es un fruto con cualidades variables en tamaño, color y firmeza, alargado, generalmente curvado y carnoso, rico en almidón cubierto con una cáscara, que puede ser verde, amarilla, roja, púrpura o marrón cuando está madura. Los frutos crecen en piñas que cuelgan de la parte superior de la planta.</p>
+  </div>
+  </div>
+
+  <div class="borde2">
+  <div class="sandia">
+  <p class="icono">🍉</p>
+  <p class="texto">La sandía es una fruta originaria de África, pero tiene una gran presencia y difusión en Asia. Hoy en día se cultiva de manera extendida por todo el mundo debido a su fruto, un pepónide de enorme tamaño —el récord entre las verduras fue una sandía de 120 kg.</p>
+  </div>
+  </div>
+  </div>
+
 <div class="fruta">
-<p>La fresa es una fruta del bosque adecuada en regímenes dietéticos, dado que tiene escasa concentración de glúcidos. Tiene un sabor muy agradable aunque ligeramente agrio (algunas pocas especies pueden tener sabor dulce).</p>
 
-<p>La cereza, también conocido como guinda, es fruto de varios árboles del género Prunus. La cereza es una fruta rica en vitaminas A, B, C, E, K y PP, en hierro, calcio, magnesio, potasio y azufre.</p>
-
-<p>La pera comestible es el fruto del peral común (Pyrus communis). La pera es una fruta jugosa, carnosa, y una de las más importantes producidas en las regiones templadas.</p>
-
-<p>El plátano (también llamado banana, banano o guineo) es un fruto con cualidades variables en tamaño, color y firmeza, alargado, generalmente curvado y carnoso, rico en almidón cubierto con una cáscara, que puede ser verde, amarilla, roja, púrpura o marrón cuando está madura. Los frutos crecen en piñas que cuelgan de la parte superior de la planta.</p>
-
-<p>La sandía es una fruta originaria de África, pero tiene una gran presencia y difusión en Asia. Hoy en día se cultiva de manera extendida por todo el mundo debido a su fruto, un pepónide de enorme tamaño —el récord entre las verduras fue una sandía de 120 kg.</p>
-
+<div class="borde3">
+<div class="fresa">
+<p class="icono">🍓</p>
+<p>Fresa</p>
+</div>
 </div>
 
-<h2> Ejemplo 2-1 </h2>
+<div class="borde3">
+<div class="cereza">
+  <p class="icono">🍒</p>
+<p>Cereza</p>
+</div>
+</div>
 
-<p>La fresa es una fruta del bosque adecuada en regímenes dietéticos, dado que tiene escasa concentración de glúcidos. Tiene un sabor muy agradable aunque ligeramente agrio (algunas pocas especies pueden tener sabor dulce).</p>
+<div class="borde3">
+  <div class="pera">
+  <p class="icono">🍐</p>
+<p>Pera</p>
+</div>
+</div>
 
-<p>La cereza, también conocido como guinda, es fruto de varios árboles del género Prunus. La cereza es una fruta rica en vitaminas A, B, C, E, K y PP, en hierro, calcio, magnesio, potasio y azufre.</p>
+<div class="borde3">
+  <div class="platano">
+  <p class="icono">🍌</p>
+<p>Plátano</p>
+</div>
+</div>
 
-<p>La pera comestible es el fruto del peral común (Pyrus communis). La pera es una fruta jugosa, carnosa, y una de las más importantes producidas en las regiones templadas.</p>
+<div class="borde3">
+  <div class="sandia">
+  <p class="icono">🍉</p>
+<p>Sandía</p>
+  </div>
+</div>
 
-<p>El plátano (también llamado banana, banano o guineo) es un fruto con cualidades variables en tamaño, color y firmeza, alargado, generalmente curvado y carnoso, rico en almidón cubierto con una cáscara, que puede ser verde, amarilla, roja, púrpura o marrón cuando está madura. Los frutos crecen en piñas que cuelgan de la parte superior de la planta.</p>
-
-<p>La sandía es una fruta originaria de África, pero tiene una gran presencia y difusión en Asia. Hoy en día se cultiva de manera extendida por todo el mundo debido a su fruto, un pepónide de enorme tamaño —el récord entre las verduras fue una sandía de 120 kg.</p>
-
-
-<h2> Ejemplo 2-2 </h2>
-
-<p> La fresa es una fruta del bosque adecuada en regímenes dietéticos, dado que tiene escasa concentración de glúcidos. Tiene un sabor muy agradable aunque ligeramente agrio (algunas pocas especies pueden tener sabor dulce).</p>
-
-<p>La cereza, también conocido como guinda, es fruto de varios árboles del género Prunus. La cereza es una fruta rica en vitaminas A, B, C, E, K y PP, en hierro, calcio, magnesio, potasio y azufre.</p>
-
-<p>La pera comestible es el fruto del peral común (Pyrus communis). La pera es una fruta jugosa, carnosa, y una de las más importantes producidas en las regiones templadas.</p>
-
-<p>El plátano (también llamado banana, banano o guineo) es un fruto con cualidades variables en tamaño, color y firmeza, alargado, generalmente curvado y carnoso, rico en almidón cubierto con una cáscara, que puede ser verde, amarilla, roja, púrpura o marrón cuando está madura. Los frutos crecen en piñas que cuelgan de la parte superior de la planta.</p>
-
-<p>La sandía es una fruta originaria de África, pero tiene una gran presencia y difusión en Asia. Hoy en día se cultiva de manera extendida por todo el mundo debido a su fruto, un pepónide de enorme tamaño —el récord entre las verduras fue una sandía de 120 kg.</p>
+</div>
 
 </div>
 </div>
