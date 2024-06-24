@@ -25,19 +25,60 @@ h2{
 
 .fruta{
   display:flex;
+  flex-wrap: wrap; 
+  gap: 20px;
 
 }
 
 .fresa, .cereza, .pera, .platano, .sandia {
-  margin:5px;
-  padding:5px;
-  border: 1px solid purple;
-
+  display: flex; 
+  align-items: flex-start;
+  
+  
+}
+.fruta-center {
+  display:flex;
+  overflow: auto;
+  text-align:justify;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
-.icono{
-  font-size:50px;
-  width:10px;
-  height: 20px;
-  float:left;
+.fruta .icono {
+  font-size: 50px;
+  margin-right: 10px;
+  width: auto; 
+  height: auto;
+  flex-shrink: 0; /* Evita que el icono se reduzca de tamaño */
+}
+
+.fruta-center .icono {
+  font-size: 50px;
+  margin-right: 10px;
+  width: auto; 
+  height: auto;
+  flex-shrink: 0; /* Evita que el icono se reduzca de tamaño */
+}
+
+.texto{
+  border-left: solid 3px pink;
+  background-color:lightgrey;
+  flex:1;
+}
+
+.borde{
+  margin:5px;
+  padding:5px;
+  border: 3px solid purple;
+  width:200px;
+}
+.borde2{
+  margin:10px;
+  border: 3px solid pink;
+  width:200px;
+}
+.borde3{
+  margin:10px;
+  border: 3px solid green;
+  width:200px;
 }
