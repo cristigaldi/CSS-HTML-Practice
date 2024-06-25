@@ -50,7 +50,7 @@
   </div>
   </div>
 
-<h2> Ejemplo 1-2</h2>
+<h2> Ejemplo 2-4</h2>
 
 <div class="fruta-center">
 <div class="borde2">
@@ -89,40 +89,41 @@
   </div>
   </div>
 
+<h2> Ejemplo 2-4</h2>
 <div class="fruta">
 
 <div class="borde3">
 <div class="fresa">
-<p class="icono">🍓</p>
-<p>Fresa</p>
+<p class="icono3">🍓</p>
+<p class= "texto3">Fresa</p>
 </div>
 </div>
 
 <div class="borde3">
 <div class="cereza">
-  <p class="icono">🍒</p>
-<p>Cereza</p>
+  <p class="icono3">🍒</p>
+<p class= "texto3">Cereza</p>
 </div>
 </div>
 
 <div class="borde3">
   <div class="pera">
-  <p class="icono">🍐</p>
-<p>Pera</p>
+  <p class="icono3">🍐</p>
+<p class= "texto3">Pera</p>
 </div>
 </div>
 
 <div class="borde3">
   <div class="platano">
-  <p class="icono">🍌</p>
-<p>Plátano</p>
+  <p class="icono3">🍌</p>
+<p class= "texto3">Plátano</p>
 </div>
 </div>
 
 <div class="borde3">
   <div class="sandia">
-  <p class="icono">🍉</p>
-<p>Sandía</p>
+  <p class="icono3">🍉</p>
+<p class= "texto3">Sandía</p>
   </div>
 </div>
 
