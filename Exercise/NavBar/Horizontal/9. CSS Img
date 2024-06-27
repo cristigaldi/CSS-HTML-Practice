@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+ul {
+    background-color: rgb(235, 235, 104);
+    overflow: hidden;
+    font-size: large;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    padding: 20px;
+    color: black;
+}
+
+.search{
+    background: url('search.png');
+    float:right; 
+    width: fit-content;
+    align-items: center;
+
+}
