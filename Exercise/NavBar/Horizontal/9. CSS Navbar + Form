@@ -1,0 +1,65 @@
+* {
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul {
+  overflow: hidden;
+  background-color: rgb(10, 110, 110);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: inline-block;
+  margin: 5px;
+  padding: 15px;
+  color: aliceblue;
+  font-size: large;
+  text-transform: uppercase;
+}
+
+li a:hover {
+  background-color: rgba(240, 255, 255, 0.321);
+
+}
+
+div {
+  margin: 20px;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: lightgrey;
+}
+form {
+ text-transform: uppercase;
+}
+
+input[type=text],
+input[type=email] {
+  width: 100%;
+  padding: 4px 8px 4px;
+  margin: 8px;
+  color: white;
+  display: inline-block;
+
+}
+
+input[type=text]:focus,
+input[type=email]:focus {
+  background-color: rgb(10, 110, 110);
+  border: 2px solid red;
+}
+
+input[type=submit] {
+  background-color: rgb(10, 110, 110);
+  color: white;
+  width: 80px;
+  margin: 20px;
+  padding: 10px;
+
+}
