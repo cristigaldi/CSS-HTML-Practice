@@ -3,4 +3,21 @@
 This repository contains a collection of CSS exercises and web projects that I have completed to practice and improve my web design skills. 
 It also includes examples of properties and techniques learned from [W3Schools](https://www.w3schools.com/).
 
-1. [Exercises](#exercises)
+## Table of Contents
+
+1. [Installation](#installation)
+2. [Exercises](#exercises)
+    - [AulaClic](#aulaclic)
+    - [Flexbox](#flexbox)
+    - [McLibre / Fruits](#mclibre--fruits)
+    - [NavBar / Horizontal](#navbar--horizontal)
+    - [Positions](#positions)
+    - [Create Cajas HTML](#create-cajas-html)
+    - [Websites](#websites)
+3. [Properties](#properties)
+    - [Float and Clear](#float-and-clear)
+    - [NavBar Overflow](#navbar-overflow)
+4. [Resources](#resources)
+5. [Contributions](#contributions)
+6. [License](#license)
+
