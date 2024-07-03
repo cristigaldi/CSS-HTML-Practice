@@ -5,8 +5,7 @@ It also includes examples of properties and techniques learned from [W3Schools](
 
 ## Table of Contents
 
-1. [Installation](#installation)
-2. [Exercises](#exercises)
+1. [Exercises](#exercises)
     - [AulaClic](#aulaclic)
     - [Flexbox](#flexbox)
     - [McLibre / Fruits](#mclibre--fruits)
@@ -14,12 +13,11 @@ It also includes examples of properties and techniques learned from [W3Schools](
     - [Positions](#positions)
     - [Create Cajas HTML](#create-cajas-html)
     - [Websites](#websites)
-3. [Properties](#properties)
+2. [Properties](#properties)
     - [Float and Clear](#float-and-clear)
     - [NavBar Overflow](#navbar-overflow)
-4. [Resources](#resources)
-5. [Contributions](#contributions)
-6. [License](#license)
+3. [Resources](#resources)
+
 
 ## Resources
 
