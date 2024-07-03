@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+body{
+
+    background-color: bisque;
+}
+.container {
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap-reverse;
+    gap: 20px;
+}
+
+.container > div {
+    
+    background-color: yellowgreen;
+    height: 100px;
+    width: 100px;
+    border: 2px solid ;
+    align-content: center;
+
+}
